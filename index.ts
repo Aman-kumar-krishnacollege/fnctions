@@ -14,12 +14,13 @@ console.log("All Clear")
 // let unit: number; // Declare variable without assigning a value
 // unit = 5;
 // console.log(unit)
-
+<<<<<<< HEAD
 let x = 2;
 let y = 1;
-
+console.log('hi')
+=======
 x = y;
-y = 100;
+y = 100;>>>>>>>
 // console.log(x)
 let point1 = { x: 1, y: 1 };
 let point2 = point1;
