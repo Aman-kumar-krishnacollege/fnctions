@@ -10,3 +10,4 @@ console.log(Array.isArray([1, 2, 4, 0]))
 
 // 3. Write a JavaScript function to get the first element of an array. Passing the parameter 'n' will return the first 'n' elements of the array.
 // Test Data :
+console.log('helloworld')
